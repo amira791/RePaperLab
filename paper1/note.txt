@@ -1,0 +1,3 @@
+- push ur jupyter notebook 
+- push a pdf where you explaine results that you get 
+- add in readme file the link to you paper + othr information like source, authors, objectif ...
