@@ -28,4 +28,4 @@ This project implements the approach proposed in the following research papers:
 ### Installation
 1. Clone the repository:  
    ```bash
-   git clone <[repository-url](https://github.com/amira791/RePaperLab.git)>
+   git clone https://github.com/amira791/RePaperLab.git
