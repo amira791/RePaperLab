@@ -12,7 +12,7 @@ This project implements the approach proposed in the following research papers:
 3. **[Image-based Wheat Fungi Diseases Identification by Deep Learning](https://www.mdpi.com/2223-7747/10/8/1500)**  
    This research identifies wheat fungi diseases using image-based deep learning methods.
 
-4. **[Real-Time Plant Disease Dataset Development and Detection of Plant Disease Using Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10414062)**  
+4. **[Integrated deep learning and ensemble learning model for deep feature-based wheat disease detection.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10414062)**  
    This paper focuses on the development of a real-time plant disease dataset and disease detection using deep learning techniques.
 
 ## Implementation Highlights
