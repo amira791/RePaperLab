@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Link to the article: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10521470
+=======
+article title : Improving Wheat Leaf Disease Classification: Evaluating Augmentation Strategies and CNN-Based Models With Limited Dataset
+
+
+- push ur jupyter notebook 
+- push a pdf where you explaine results that you get 
+- add in readme file the link to you paper + othr information like source, authors, objectif ...
+>>>>>>> 391e3a7b62a8a7da9291a5487b46c3436c6b93fc
